@@ -1,0 +1,826 @@
+{
+  "version": 2,
+  "exportedAt": "2026-07-09T15:43:05.481Z",
+  "appName": "LeadCalculator",
+  "state": {
+    "players": {
+      "p1": {
+        "id": "p1",
+        "name": "Yoan",
+        "traits": {
+          "smash": {
+            "level": 51,
+            "end": 1783616137285
+          },
+          "defense": {
+            "level": 52,
+            "end": 1783642975575
+          },
+          "service": {
+            "level": 51,
+            "end": 1783612559047
+          },
+          "stick": {
+            "level": 52,
+            "end": null
+          },
+          "slice": {
+            "level": 52,
+            "end": null
+          },
+          "amorti": {
+            "level": 52,
+            "end": 1783642976045
+          },
+          "endurance": {
+            "level": 51,
+            "end": 1783618683838
+          },
+          "force": {
+            "level": 52,
+            "end": 1783642978974
+          },
+          "agilite": {
+            "level": 52,
+            "end": 1783649842955
+          },
+          "vitesse": {
+            "level": 52,
+            "end": null
+          },
+          "explosivite": {
+            "level": 51,
+            "end": 1783616140446
+          },
+          "prevention": {
+            "level": 52,
+            "end": 1783642979156
+          }
+        },
+        "disabled": false,
+        "maxLevel": 983
+      },
+      "p2": {
+        "id": "p2",
+        "name": "Guillaume",
+        "traits": {
+          "smash": {
+            "level": 50,
+            "end": null
+          },
+          "defense": {
+            "level": 50,
+            "end": null
+          },
+          "service": {
+            "level": 50,
+            "end": null
+          },
+          "stick": {
+            "level": 50,
+            "end": null
+          },
+          "slice": {
+            "level": 50,
+            "end": null
+          },
+          "amorti": {
+            "level": 50,
+            "end": null
+          },
+          "endurance": {
+            "level": 50,
+            "end": 1783627000915
+          },
+          "force": {
+            "level": 50,
+            "end": 1783627000915
+          },
+          "agilite": {
+            "level": 50,
+            "end": 1783627000915
+          },
+          "vitesse": {
+            "level": 49,
+            "end": 1783622707849
+          },
+          "explosivite": {
+            "level": 49,
+            "end": 1783622707808
+          },
+          "prevention": {
+            "level": 49,
+            "end": 1783622707899
+          }
+        },
+        "disabled": false,
+        "maxLevel": 921
+      },
+      "p3": {
+        "id": "p3",
+        "name": "Victo",
+        "traits": {
+          "smash": {
+            "level": 52,
+            "end": 1783628298820
+          },
+          "defense": {
+            "level": 52,
+            "end": 1783628298820
+          },
+          "service": {
+            "level": 52,
+            "end": 1783628299587
+          },
+          "stick": {
+            "level": 53,
+            "end": 1783631013244
+          },
+          "slice": {
+            "level": 53,
+            "end": 1783631013244
+          },
+          "amorti": {
+            "level": 53,
+            "end": 1783631013244
+          },
+          "endurance": {
+            "level": 51,
+            "end": 1783622475941
+          },
+          "force": {
+            "level": 51,
+            "end": 1783622475941
+          },
+          "agilite": {
+            "level": 51,
+            "end": 1783622475941
+          },
+          "vitesse": {
+            "level": 51,
+            "end": 1783631002628
+          },
+          "explosivite": {
+            "level": 51,
+            "end": 1783631002628
+          },
+          "prevention": {
+            "level": 50,
+            "end": 1783632458257
+          }
+        },
+        "disabled": false,
+        "maxLevel": 965
+      },
+      "p4": {
+        "id": "p4",
+        "name": "Fred",
+        "traits": {
+          "smash": {
+            "level": 45,
+            "end": null
+          },
+          "defense": {
+            "level": 45,
+            "end": null
+          },
+          "service": {
+            "level": 45,
+            "end": null
+          },
+          "stick": {
+            "level": 45,
+            "end": null
+          },
+          "slice": {
+            "level": 45,
+            "end": null
+          },
+          "amorti": {
+            "level": 45,
+            "end": null
+          },
+          "endurance": {
+            "level": 45,
+            "end": null
+          },
+          "force": {
+            "level": 45,
+            "end": null
+          },
+          "agilite": {
+            "level": 45,
+            "end": null
+          },
+          "vitesse": {
+            "level": 45,
+            "end": null
+          },
+          "explosivite": {
+            "level": 45,
+            "end": null
+          },
+          "prevention": {
+            "level": 45,
+            "end": null
+          }
+        },
+        "disabled": false,
+        "maxLevel": 986
+      },
+      "p5": {
+        "id": "p5",
+        "name": "Camille",
+        "traits": {
+          "smash": {
+            "level": 49,
+            "end": 1783620950671
+          },
+          "defense": {
+            "level": 49,
+            "end": 1783620950671
+          },
+          "service": {
+            "level": 49,
+            "end": 1783620950671
+          },
+          "stick": {
+            "level": 49,
+            "end": 1783622708535
+          },
+          "slice": {
+            "level": 49,
+            "end": 1783622708731
+          },
+          "amorti": {
+            "level": 49,
+            "end": 1783622708580
+          },
+          "endurance": {
+            "level": 49,
+            "end": 1783620952409
+          },
+          "force": {
+            "level": 49,
+            "end": 1783620952409
+          },
+          "agilite": {
+            "level": 49,
+            "end": 1783620952409
+          },
+          "vitesse": {
+            "level": 49,
+            "end": 1783620952409
+          },
+          "explosivite": {
+            "level": 49,
+            "end": 1783620952409
+          },
+          "prevention": {
+            "level": 50,
+            "end": 1783627008768
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      },
+      "p6": {
+        "id": "p6",
+        "name": "Elara",
+        "traits": {
+          "smash": {
+            "level": 47,
+            "end": null
+          },
+          "defense": {
+            "level": 47,
+            "end": null
+          },
+          "service": {
+            "level": 47,
+            "end": null
+          },
+          "stick": {
+            "level": 47,
+            "end": null
+          },
+          "slice": {
+            "level": 47,
+            "end": null
+          },
+          "amorti": {
+            "level": 47,
+            "end": null
+          },
+          "endurance": {
+            "level": 47,
+            "end": null
+          },
+          "force": {
+            "level": 47,
+            "end": null
+          },
+          "agilite": {
+            "level": 47,
+            "end": null
+          },
+          "vitesse": {
+            "level": 47,
+            "end": null
+          },
+          "explosivite": {
+            "level": 47,
+            "end": null
+          },
+          "prevention": {
+            "level": 47,
+            "end": null
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      },
+      "p7": {
+        "id": "p7",
+        "name": "Ines",
+        "traits": {
+          "smash": {
+            "level": 48,
+            "end": 1783618436656
+          },
+          "defense": {
+            "level": 48,
+            "end": 1783618436868
+          },
+          "service": {
+            "level": 48,
+            "end": 1783618436923
+          },
+          "stick": {
+            "level": 48,
+            "end": 1783618436836
+          },
+          "slice": {
+            "level": 48,
+            "end": 1783618436733
+          },
+          "amorti": {
+            "level": 48,
+            "end": 1783618436798
+          },
+          "endurance": {
+            "level": 49,
+            "end": 1783620960323
+          },
+          "force": {
+            "level": 48,
+            "end": 1783618437273
+          },
+          "agilite": {
+            "level": 48,
+            "end": 1783625433188
+          },
+          "vitesse": {
+            "level": 48,
+            "end": 1783625434603
+          },
+          "explosivite": {
+            "level": 48,
+            "end": 1783625433849
+          },
+          "prevention": {
+            "level": 48,
+            "end": null
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      },
+      "p8": {
+        "id": "p8",
+        "name": "Nathanael",
+        "traits": {
+          "smash": {
+            "level": 48,
+            "end": null
+          },
+          "defense": {
+            "level": 48,
+            "end": null
+          },
+          "service": {
+            "level": 48,
+            "end": null
+          },
+          "stick": {
+            "level": 48,
+            "end": null
+          },
+          "slice": {
+            "level": 48,
+            "end": null
+          },
+          "amorti": {
+            "level": 48,
+            "end": null
+          },
+          "endurance": {
+            "level": 48,
+            "end": null
+          },
+          "force": {
+            "level": 48,
+            "end": null
+          },
+          "agilite": {
+            "level": 48,
+            "end": null
+          },
+          "vitesse": {
+            "level": 48,
+            "end": null
+          },
+          "explosivite": {
+            "level": 48,
+            "end": null
+          },
+          "prevention": {
+            "level": 48,
+            "end": null
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      },
+      "p9": {
+        "id": "p9",
+        "name": "Ambre",
+        "traits": {
+          "smash": {
+            "level": 48,
+            "end": null
+          },
+          "defense": {
+            "level": 48,
+            "end": null
+          },
+          "service": {
+            "level": 48,
+            "end": null
+          },
+          "stick": {
+            "level": 48,
+            "end": null
+          },
+          "slice": {
+            "level": 48,
+            "end": null
+          },
+          "amorti": {
+            "level": 49,
+            "end": null
+          },
+          "endurance": {
+            "level": 48,
+            "end": null
+          },
+          "force": {
+            "level": 48,
+            "end": null
+          },
+          "agilite": {
+            "level": 48,
+            "end": null
+          },
+          "vitesse": {
+            "level": 49,
+            "end": null
+          },
+          "explosivite": {
+            "level": 48,
+            "end": null
+          },
+          "prevention": {
+            "level": 49,
+            "end": null
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      },
+      "p10": {
+        "id": "p10",
+        "name": "Sarah",
+        "traits": {
+          "smash": {
+            "level": 48,
+            "end": null
+          },
+          "defense": {
+            "level": 48,
+            "end": null
+          },
+          "service": {
+            "level": 48,
+            "end": null
+          },
+          "stick": {
+            "level": 48,
+            "end": 1783624339918
+          },
+          "slice": {
+            "level": 48,
+            "end": null
+          },
+          "amorti": {
+            "level": 48,
+            "end": null
+          },
+          "endurance": {
+            "level": 47,
+            "end": 1783611937620
+          },
+          "force": {
+            "level": 48,
+            "end": null
+          },
+          "agilite": {
+            "level": 48,
+            "end": null
+          },
+          "vitesse": {
+            "level": 48,
+            "end": null
+          },
+          "explosivite": {
+            "level": 48,
+            "end": null
+          },
+          "prevention": {
+            "level": 48,
+            "end": null
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      },
+      "p11": {
+        "id": "p11",
+        "name": "Karen",
+        "traits": {
+          "smash": {
+            "level": 40,
+            "end": null
+          },
+          "defense": {
+            "level": 40,
+            "end": null
+          },
+          "service": {
+            "level": 40,
+            "end": null
+          },
+          "stick": {
+            "level": 40,
+            "end": null
+          },
+          "slice": {
+            "level": 40,
+            "end": null
+          },
+          "amorti": {
+            "level": 40,
+            "end": null
+          },
+          "endurance": {
+            "level": 40,
+            "end": null
+          },
+          "force": {
+            "level": 40,
+            "end": null
+          },
+          "agilite": {
+            "level": 40,
+            "end": null
+          },
+          "vitesse": {
+            "level": 40,
+            "end": null
+          },
+          "explosivite": {
+            "level": 40,
+            "end": null
+          },
+          "prevention": {
+            "level": 40,
+            "end": null
+          }
+        },
+        "disabled": true,
+        "maxLevel": null
+      },
+      "p12": {
+        "id": "p12",
+        "name": "Pierre",
+        "traits": {
+          "smash": {
+            "level": 43,
+            "end": null
+          },
+          "defense": {
+            "level": 43,
+            "end": null
+          },
+          "service": {
+            "level": 43,
+            "end": null
+          },
+          "stick": {
+            "level": 43,
+            "end": null
+          },
+          "slice": {
+            "level": 43,
+            "end": null
+          },
+          "amorti": {
+            "level": 43,
+            "end": null
+          },
+          "endurance": {
+            "level": 43,
+            "end": null
+          },
+          "force": {
+            "level": 43,
+            "end": null
+          },
+          "agilite": {
+            "level": 43,
+            "end": null
+          },
+          "vitesse": {
+            "level": 43,
+            "end": null
+          },
+          "explosivite": {
+            "level": 43,
+            "end": null
+          },
+          "prevention": {
+            "level": 43,
+            "end": null
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      },
+      "p15": {
+        "id": "p15",
+        "name": "Yannick",
+        "traits": {
+          "smash": {
+            "level": 47,
+            "end": 1783616513470
+          },
+          "defense": {
+            "level": 47,
+            "end": 1783616513530
+          },
+          "service": {
+            "level": 47,
+            "end": null
+          },
+          "stick": {
+            "level": 47,
+            "end": null
+          },
+          "slice": {
+            "level": 46,
+            "end": null
+          },
+          "amorti": {
+            "level": 47,
+            "end": 1783616513698
+          },
+          "endurance": {
+            "level": 46,
+            "end": null
+          },
+          "force": {
+            "level": 46,
+            "end": null
+          },
+          "agilite": {
+            "level": 46,
+            "end": null
+          },
+          "vitesse": {
+            "level": 46,
+            "end": null
+          },
+          "explosivite": {
+            "level": 46,
+            "end": null
+          },
+          "prevention": {
+            "level": 46,
+            "end": null
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      },
+      "p16": {
+        "id": "p16",
+        "name": "Mathilde",
+        "traits": {
+          "smash": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "defense": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "service": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "stick": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "slice": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "amorti": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "endurance": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "force": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "agilite": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "vitesse": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "explosivite": {
+            "level": 35,
+            "end": 1783667131540
+          },
+          "prevention": {
+            "level": 35,
+            "end": 1783667131540
+          }
+        },
+        "disabled": false,
+        "maxLevel": null
+      }
+    },
+    "nextId": 17
+  },
+  "model": {
+    "a": 4.0846,
+    "b": 0.182462,
+    "points": [],
+    "customLevels": {}
+  },
+  "raids": [
+    {
+      "id": "raid_1783598697991_m0zg9",
+      "target": "Royal Badminton Club",
+      "attackedAt": 1783598697991,
+      "shieldEnd": 1783641897991
+    },
+    {
+      "id": "raid_1783537667234_w3tcz",
+      "target": "Le Sanctuaire",
+      "attackedAt": 1783535807234,
+      "shieldEnd": 1783579007234
+    },
+    {
+      "id": "raid_1783462039726_h0i0l",
+      "target": "La Brigade",
+      "attackedAt": 1783507575141,
+      "shieldEnd": 1783550775141
+    },
+    {
+      "id": "raid_1783460537760_vnrld",
+      "target": "LesProsdePeinture",
+      "attackedAt": 1783539339234,
+      "shieldEnd": 1783582539234
+    }
+  ]
+}
